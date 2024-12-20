@@ -1,0 +1,13 @@
+{
+  "preguntas": [
+      { "pregunta": "¿Cuál es tu horario?", "respuesta": "Nuestro horario es de lunes a viernes de 9:00 AM a 6:00 PM." },
+      { "pregunta": "¿Dónde están ubicados?", "respuesta": "Estamos ubicados en el centro de la ciudad, cerca de la plaza principal." },
+      { "pregunta": "¿Qué servicios ofrecen?", "respuesta": "Ofrecemos servicios de chat en vivo, soporte técnico y más." },
+      { "pregunta": "¿Tienen promociones?", "respuesta": "Sí, actualmente tenemos un 20% de descuento en nuestros servicios." },
+      { "pregunta": "¿Puedo agendar una cita?", "respuesta": "Claro, por favor contáctanos a través de nuestro formulario de contacto." },
+      { "pregunta": "¿Aceptan pagos en línea?", "respuesta": "Sí, aceptamos pagos con tarjeta y transferencias bancarias." }
+  ]
+}
+
+
+  
